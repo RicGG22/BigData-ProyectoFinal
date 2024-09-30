@@ -1,0 +1,9 @@
+{
+	"name": "rgallegoscertus",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f0c2e1c1-702b-425e-8aa2-e9c718334248",
+		"tenantId": "e62658a1-67f5-44f7-8e60-f4ce4579a3f9"
+	}
+}
